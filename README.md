@@ -13,3 +13,6 @@ I’m working on a shield which will also include the components for the Logic A
 This is the basic design:
 
 ![alt tag](https://github.com/kr4fty/Ardutester/blob/master/disp35e1.png)
+
+## Fork
+https://github.com/kr4fty/ArduProj
